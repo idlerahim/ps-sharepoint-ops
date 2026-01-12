@@ -2,7 +2,7 @@
 
 This PowerShell script provides ability to sync files from multi sites of the same tenant. It has dry run, pause/resume and update functionalities. Useful where user account does not have Azure/AD Admin access.
 
-![1768181271214](image/README/1768181271214.png)
+![Image](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAhEAAAFECAYAAACZNWzLAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAF/WSURBVHhe7d1/XFTXgTf+...)
 
 ## Features
 
